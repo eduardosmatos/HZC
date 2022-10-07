@@ -2,7 +2,7 @@
 
 <p align="center"> Um site criado voltado para a cultura do skate, com a ideia de localizar alguns pontos e picos propícios para andar de skate pela cidade,
 divulgar vídeos de alguns skatistas locais e vender alguns produtos.</p>
-<p align="center"> Desenvolvido para aprender melhor como aplicar os conhecimentos de CSS Flexbox e Grid.</p>
+<p align="center"> Desenvolvido para aprender melhor como aplicar os conhecimentos de CSS Flexbox e Grid com base no curso da Alura.</p>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
