@@ -1,103 +1,31 @@
-# Guia de estilos
+<h1 align="center"> HZC 🛹</h1>
 
-Toda a estilização que será usada no projeto dentro do figma.
+<p align="center"> Um site criado voltado para a cultura do skate, com a ideia de localizar alguns pontos e picos propícios para andar de skate pela cidade,
+divulgar vídeos de alguns skatistas locais e vender alguns produtos</p>
+<p align="center"> Desenvolvido para aprender melhor como aplicar os conhecimentos de CSS Flexbox e Grid.</p>
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Fonte
+### 🛠 Tecnologias
 
-```html
-Open Sans:
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-```
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Cores
+<div style="display: inline_block">
+  <img align="center" alt="Du-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Du-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-corpo: `#1D232A`
+### 🔗 Link do Projeto: https://eduardosmatos.github.io/HZC/
 
-cabeçalho: `#1D232A`
+### 🖼️ Imagem do Projeto
+![HZC Desktop](https://user-images.githubusercontent.com/27296909/194467476-2b38b9ff-e221-4ce3-9156-74f51bf98548.png)
+![HZC Desktop - Picos](https://user-images.githubusercontent.com/27296909/194467489-dd0d2c43-e166-471c-9ae9-ccf9f3ef2663.png)
+![HZC Mobile](https://user-images.githubusercontent.com/27296909/194467495-ceb52a98-feef-4cd6-ad33-4ec4ac4e5c71.png)
+![HZC Mobile - Picos](https://user-images.githubusercontent.com/27296909/194467497-4bab1168-0940-4b3c-8ae1-86368df63f81.png)
 
-cabeçalho mobile: `#15191C`
+### 🧑🏻‍💻 Autores
 
-menu lateral: `#15191C`
-
-cartão: `#2C343A`
-
-fonte: `#FFFFFF`
-
-fonte alternativa: `#95999C`
-
-links: `#0480DC`
-
-botão: `#0480DC`
-
-sombras: `0px 4px 4px rgba(0, 0, 0, 0.16)`
-
-## Ícones
-
-Estão dentro do arquivo de fonte `icones.ttf`. Para usar, primeiro importe a fonte no projeto usando `@font-face` e depois utilize os códigos abaixo para exibir o ícone.
-
-```css
-@font-face {
-    font-family: 'icones';
-    src: url(../font/icones.ttf);
-}
-```
-
-> Cuidado com a localização do arquivo `icones.ttf`
-
-Camisas = `\e900`
-
-Carrinho = `\e901`
-
-Inicio = `\e902`
-
-Integrantes = `\e903`
-
-Menu = `\e904`
-
-Moeda = `\e905`
-
-Notificação = `\e906`
-
-Pico = `\e908`
-
-Picos = `\e909`
-
-Pinturas = `\e90a`
-
-Play = `\e90b`
-
-Relogio = `\e90c`
-
-Seta-baixo = `\e90d`
-
-Videos = `\e90e`
-
-Visualizacao = `\e90f`
-
-## Espaçamentos
-
-Espaço interno botão: `8px`
-
-Espaço entre elementos do botão: `8px`
-
-Espaço entre elementos: `16px/8px`
-
-Espaçamento interno do corpo: `16px`
-
-Espaçamento entre o título do cartão de recentes e seus itens: `24px`
-
-## Tamanhos
-
-Tamanho do dispositivo mobile: `360px`
-
-Tamanho do dispositivo desktop: `1440px`
-
-Largura máxima do conteúdo principal: `1120px`
-
-Largura máxima de um cartão desktop: `256px`
-
-Altura mínima de um cartão: `320px`
+| [<img src="https://user-images.githubusercontent.com/27296909/194435978-25df968b-3402-463c-8517-735d959a37c4.jpg" width=115px ><br><sub>Eduardo Matos</sub>](https://github.com/eduardosmatos) |  
+| :---: |
