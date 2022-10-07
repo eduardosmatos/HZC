@@ -1,7 +1,7 @@
 <h1 align="center"> HZC 🛹</h1>
 
 <p align="center"> Um site criado voltado para a cultura do skate, com a ideia de localizar alguns pontos e picos propícios para andar de skate pela cidade,
-divulgar vídeos de alguns skatistas locais e vender alguns produtos</p>
+divulgar vídeos de alguns skatistas locais e vender alguns produtos.</p>
 <p align="center"> Desenvolvido para aprender melhor como aplicar os conhecimentos de CSS Flexbox e Grid.</p>
 
 <p align="center">
